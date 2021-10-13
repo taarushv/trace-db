@@ -1,0 +1,18 @@
+{
+  "name": "trace-db",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/taarushv/trace-db.git",
+  "author": "Taarush Vemulapalli <saikarthiktaarush.vemulapalli@sjsu.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.23",
+    "ethers": "^5.4.7",
+    "lowdb": "1.0",
+    "pg": "^8.7.1",
+    "pg-format": "^1.0.4"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}

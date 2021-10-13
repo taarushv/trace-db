@@ -3,7 +3,7 @@ Usage
 
 ## Sync node (mainnet)
 
-Fork that adds `trace_blockRange` and `trace_specificBlocks` rpc methods (no need to resync existing erigon node)
+[Fork](https://github.com/taarushv/erigon-trace-fork/commit/ec4ab999c41c330c7db63db8c95434f75b30ddda) that adds `trace_blockRange` and `trace_specificBlocks` rpc methods (no need to resync existing erigon node)
 
 ex: 
 
